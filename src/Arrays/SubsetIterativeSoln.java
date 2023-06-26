@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.*;
 
-public class SubsetItegrativeSoln {
+class SubsetItegrativeSoln {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3};
         System.out.println(subsets(nums));
