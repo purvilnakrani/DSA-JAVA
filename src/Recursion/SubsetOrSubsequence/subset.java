@@ -1,12 +1,11 @@
-package Recursion;
+package Recursion.SubsetOrSubsequence;
 
-public class Subset {
+public class subset {
     public static void main(String[] args) {
-        subset("", "123");
-        subset("", "purvil");
+        subset("", "abc");
     }
 
-    static void subset(String p, String up) {
+    public static void subset(String p, String up) {
         if (up.isEmpty()) {
             System.out.println(p);
             return;
@@ -15,5 +14,4 @@ public class Subset {
         subset(p + ch, up.substring(1));
         subset(p, up.substring(1));
     }
-
 }

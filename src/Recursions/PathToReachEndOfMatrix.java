@@ -1,4 +1,4 @@
-package Recursion;
+package Recursions;
 
 import java.util.*;
 
