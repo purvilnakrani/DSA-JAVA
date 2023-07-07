@@ -1,4 +1,4 @@
-package Maths;
+package BitManipulation;
 
 public class ConvertToBaseMinus2 {
     public static void main(String[] args) {

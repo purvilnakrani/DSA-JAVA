@@ -1,4 +1,4 @@
-package Maths;
+package BitManipulation;
 
 public class DecimalToBinaryNumberString {
     public static void main(String[] args) {

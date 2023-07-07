@@ -1,4 +1,4 @@
-package Maths;
+package BitManipulation;
 
 public class ResetithBitTo0 {
     public static void main(String[] args) {

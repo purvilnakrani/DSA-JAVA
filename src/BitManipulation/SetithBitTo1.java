@@ -1,4 +1,4 @@
-package Maths;
+package BitManipulation;
 
 public class SetithBitTo1 {
     public static void main(String[] args) {

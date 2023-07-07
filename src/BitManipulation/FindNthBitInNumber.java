@@ -1,4 +1,4 @@
-package Maths;
+package BitManipulation;
 
 public class FindNthBitInNumber {
     public static void main(String[] args) {
